@@ -11,3 +11,8 @@ Compatibility
 -------------
 
 Tested with Rails 2.1.
+
+Install
+-------
+
+ruby script/plugin install git://github.com/nickpad/rails-html4.git
