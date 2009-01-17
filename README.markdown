@@ -10,7 +10,7 @@ The original Rails-provided method is aliased as xhtml_tag.
 Compatibility
 -------------
 
-Tested with Rails 2.1.
+Tested with Rails 2.1 and 2.2.
 
 Install
 -------
